@@ -6,3 +6,14 @@ envvenv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Arquivo local de copias de trabalho
+/_arquivo_local/
+/pyvenv.cfg
+
+# Arquivos de execução e exportações regeneráveis
+/outputs/
+/objetivos/*/outputs/
+/objetivos/4.regression_did/Tabelas de regressão PSI.html
+/objetivos/4.regression_did/Tabelas de regressão PSI - PNG.zip
+~$*
