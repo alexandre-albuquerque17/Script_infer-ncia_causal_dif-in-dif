@@ -1,6 +1,6 @@
 # Inferência causal com DiD - Efeitos do Programa de Sustentação do Investimento (PSI) sobre o mercado de trabalho formal: uma abordagem de diferença em diferenças por intensidade de exposição
 
-O projeto é um estudo piloto para a avaliação acadêmica utilizando o metódo de diferenças em diferenças da econometria aplicada pautando-se da busca de inferência causal do estudo, o desenho do estudo detém um tratamento contínuo para estudar como o emprego formal e a massa salarial real evoluíram após o Programa de Sustentação do Investimento (PSI/2009) conforme a exposição histórica dos municípios ao Finame. Os estudos de eventos, os testes de pré-tendências e as análises de robustez documentam os limites da interpretação causal.
+O projeto é um estudo piloto para a avaliação acadêmica utilizando o metódo de diferenças em diferenças da econometria aplicada. O desenho do estudo detém um tratamento contínuo para estudar como o emprego formal e a massa salarial real evoluíram após o Programa de Sustentação do Investimento (PSI/2009) conforme a exposição histórica dos municípios ao Finame. Os estudos de eventos, os testes de pré-tendências e as análises de robustez documentam os limites da interpretação causal desse estudo em específicogi.
 
 ## Notebooks
 
